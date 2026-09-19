@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pixel.dir/src/testarPixel.cpp.o CMakeFiles/pixel.dir/src/pixel.cpp.o -o pixel 

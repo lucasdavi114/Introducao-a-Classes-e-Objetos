@@ -1,0 +1,3 @@
+/home/lucas/Documentos/cpp/Lista2 - Orietacao a objetos/Introducao-a-Classes-e-Objetos/pixel/build/CMakeFiles/pixel.dir
+/home/lucas/Documentos/cpp/Lista2 - Orietacao a objetos/Introducao-a-Classes-e-Objetos/pixel/build/CMakeFiles/edit_cache.dir
+/home/lucas/Documentos/cpp/Lista2 - Orietacao a objetos/Introducao-a-Classes-e-Objetos/pixel/build/CMakeFiles/rebuild_cache.dir
