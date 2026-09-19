@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/livro.dir/src/livros.cpp.o CMakeFiles/livro.dir/src/testarLivros.cpp.o -o livro 
