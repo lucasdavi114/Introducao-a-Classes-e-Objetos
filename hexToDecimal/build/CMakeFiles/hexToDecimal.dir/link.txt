@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/hexToDecimal.dir/src/hexToDecimal.cpp.o CMakeFiles/hexToDecimal.dir/src/testarHexToDecimal.cpp.o -o hexToDecimal 
